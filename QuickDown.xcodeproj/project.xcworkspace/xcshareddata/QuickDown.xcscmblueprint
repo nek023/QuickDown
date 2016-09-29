@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D6BAABA523B8C86C71B5E4A83C8FF6F8325F8CF3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9093002DCF60D9F68F86C05399F0537B8D2F1EA0" : 0,
+    "D6BAABA523B8C86C71B5E4A83C8FF6F8325F8CF3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A41A961E-B945-4EC9-97A5-469CB6D08FFD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9093002DCF60D9F68F86C05399F0537B8D2F1EA0" : "QuickDown\/discount\/",
+    "D6BAABA523B8C86C71B5E4A83C8FF6F8325F8CF3" : "quickdown\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "QuickDown",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "QuickDown.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Orc\/discount.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9093002DCF60D9F68F86C05399F0537B8D2F1EA0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:questbeat\/quickdown.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D6BAABA523B8C86C71B5E4A83C8FF6F8325F8CF3"
+    }
+  ]
+}
